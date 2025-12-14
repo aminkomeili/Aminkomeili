@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amin Komeili</h1>
-<h3 align="center">DevOps and Network Engineer</h3>
+<h3 align="center">Network & DevOps Engineer | Automation & AI‑Driven Infrastructure
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminkomeili&label=Profile%20views&color=0e75b6&style=flat" alt="aminkomeili" /> </p>
 
 ## About me :
-Network & DevOps Engineer | Automation & AI‑Driven Infrastructure
-
 I am a Network and DevOps Engineer with a strong background in designing, automating, and operating reliable infrastructure in complex, production‑grade environments. My expertise spans enterprise networking, system administration, cloud‑native and DevOps practices, with a growing focus on AI‑driven automation and intelligent operations.
 
 On the Networking side, I hold a Cisco CCIE Routing & Switching certification and have hands‑on experience with enterprise voice and networking solutions, including Cisco Voice Collaboration (CUCM, CME), Asterisk, Panasonic, Issabel, Mikrotik RouterBOARD, wireless network engineering, and Microsoft Windows Server administration. I have deep expertise in TCP/IP, routing, switching, and large‑scale network troubleshooting.
