@@ -4,13 +4,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminkomeili&label=Profile%20views&color=0e75b6&style=flat" alt="aminkomeili" /> </p>
 
 ## About me :
-- 💬 As a skilled Network and DevOps Engineer, I possess a diverse set of technical expertise that enable me to deliver reliable solutions in complex environments. My network skills include a Cisco CCIE Routing & Switching certification, experience with Asterisk, Panasonic, Ericsson, and Issable administration, and expertise in wireless network engineering, Microsoft Windows server administration, and ethical hacking and network defense engineering. In addition, I have experience with Cisco Voice Collaboration (CUCM, CME) and Mikrotik Router Board administration.
+Network & DevOps Engineer | Automation & AI‑Driven Infrastructure
 
-- 💬 On the DevOps side, I bring a strong background in Linux and Windows server administration and an in-depth knowledge of TCP/IP. My expertise in containers and container orchestration technologies (Docker, Docker Swarm, Kubernetes), automation/configuration management using Ansible, and scripting skills with Bash and Python enable me to develop and maintain reliable and scalable systems. I have experience with Key-Value and NoSQL solutions (Redis, MongoDB) and Relational Database solutions (MSSQL, PSQL, SQLlite), as well as continuous monitoring using Zabbix, Prometheus, Grafana, ELK, EFK. I am also proficient in web servers and load balancers (Nginx, HAproxy) and logs management using Splunk.
+I am a Network and DevOps Engineer with a strong background in designing, automating, and operating reliable infrastructure in complex, production‑grade environments. My expertise spans enterprise networking, system administration, cloud‑native and DevOps practices, with a growing focus on AI‑driven automation and intelligent operations.
 
-- 💬 In addition, I have experience implementing CI/CD with Gitlab and Jenkins, as well as working with virtualization, specifically KVM. I have a strong knowledge of Git/GitFlow/Gitlab, Project Management (Agile/Scrum/Kanban/Lean/Waterfall), and Clean Code/Clean Coder/Clean Architecture/Design Patterns. I possess excellent troubleshooting capabilities and an ability to quickly learn new technologies.
+On the Networking side, I hold a Cisco CCIE Routing & Switching certification and have hands‑on experience with enterprise voice and networking solutions, including Cisco Voice Collaboration (CUCM, CME), Asterisk, Panasonic, Issabel, Mikrotik RouterBOARD, wireless network engineering, and Microsoft Windows Server administration. I have deep expertise in TCP/IP, routing, switching, and large‑scale network troubleshooting.
 
-- 💬 I thrive in fast-paced and dynamic environments, where I can apply my knowledge and experience to design, implement, and support robust systems that meet business objectives.
+From a DevOps & Platform Engineering perspective, I specialize in Linux and Windows server administration, containerization and orchestration (Docker, Docker Swarm, Kubernetes), and infrastructure automation using Ansible, Bash, and Python. I have practical experience designing scalable systems backed by Redis, MongoDB, and relational databases (MSSQL, SQLite), along with implementing robust monitoring and observability stacks using Zabbix, Prometheus, Grafana, ELK, and Splunk.
+
+I also have strong experience with:
+
+    CI/CD pipelines using GitLab CI/CD and Jenkins
+    Web servers and load balancing with Nginx and HAProxy
+    Virtualization with KVM
+    Version control and collaboration (Git, GitFlow, GitLab)
+    Project Management methodologies (Agile, Scrum, Kanban, Lean, Waterfall)
+    Clean Code, Clean Architecture, and Design Patterns
+
+🤖 AI & Intelligent Automation
+
+I actively leverage AI‑assisted tools and LLM‑based solutions to enhance DevOps and SRE workflows, including:
+
+    Automating operational tasks and infrastructure management using Python + AI APIs
+    Improving monitoring, log analysis, and anomaly detection through data‑driven and AI‑assisted approaches
+    Accelerating troubleshooting, documentation, and system design using AI‑powered tooling
+    Building smarter, more self‑healing and observable systems
+
+I am highly analytical, an excellent problem solver, and a fast learner who thrives in fast‑paced environments. I enjoy turning complex infrastructure challenges into automated, resilient, and intelligent systems that directly support business goals.
 
 - 📫 How to reach me **a.komeili@ymail.com**
 
